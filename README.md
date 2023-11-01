@@ -1,4 +1,4 @@
-l[logo](https://github.com/Codewithswapn/Codewithswapn/blob/main/SwapnilSalunkhe.gif)
+![logo](https://github.com/Codewithswapn/Codewithswapn/blob/main/SwapnilSalunkhe.gif)
 <h1 align="center">Hi 👋, I'm Swapnil Dinkar Salunkhe</h1>
 <h3 align="center">Aspiring Data Science Student | Passionate about Extracting Insights from Data
 
