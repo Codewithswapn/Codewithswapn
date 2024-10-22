@@ -1,6 +1,6 @@
 ![logo](https://github.com/Codewithswapn/Codewithswapn/blob/main/SwapnilSalunkhe.gif)
 <h1 align="center">Hi 👋, I'm Swapnil Dinkar Salunkhe</h1>
-<h3 align="center">Aspiring Data Science Student | Passionate about Extracting Insights from Data
+<h3 align="center">Aspiring Data Science Student | Passionate about Extracting Insights from Data and create an Automation Intelligence
 
 🌟 Welcome to my GitHub profile! 🌟
 
@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Master's in Artificial Intelligence and Data Science at Deggendorf Institute of Technology, Germany**
 
-- 💬 Ask me about **Machine Learning, Tableau, Deep Learning, Databases**
+- 💬 Ask me about **Machine Learning, Tableau, NLP, Databases, Langchain, LangGraph, Generative AI**
 
 - 📫 How to reach me **salunkhe.swapnil001@gmail.com**
 
